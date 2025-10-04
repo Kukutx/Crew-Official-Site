@@ -12,6 +12,12 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+也可以本地 CLI 一键发
+
+npm i -g vercel
+vercel            # 生成 Preview
+vercel --prod     # 直接发 Production
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
